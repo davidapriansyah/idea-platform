@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "credo",
+    "description": "Pedro pedro cur commodo quaerat adicio coadunatio. Tergiversatio admitto casus vindico atqui aperiam corrupti. Arguo acies cauda sopor despecto sol delectus.",
+    "price": 933918,
+    "stock": 39,
+    "imgUrl": "https://picsum.photos/seed/DXQs6olFa/100/100",
+    "categoryId": 5,
+    "authorId": 1,
+    "createdAt": "2024-01-08T08:48:04.240Z",
+    "updatedAt": "2024-01-16T08:34:47.860Z",
+    "Category": {
+      "id": 5,
+      "name": "molestiae",
+      "createdAt": "2024-01-08T08:48:03.891Z",
+      "updatedAt": "2024-01-08T08:48:03.891Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "deripio",
+    "description": "Administratio cur commodo quaerat adicio coadunatio. Tergiversatio admitto casus vindico atqui aperiam corrupti. Arguo acies cauda sopor despecto sol delectus.",
+    "price": 645429,
+    "stock": 26,
+    "imgUrl": "https://loremflickr.com/100/100?lock=1784188751577088",
+    "categoryId": 9,
+    "authorId": 9,
+    "createdAt": "2024-01-08T08:48:04.241Z",
+    "updatedAt": "2024-01-08T08:48:04.241Z",
+    "Category": {
+      "id": 9,
+      "name": "confido",
+      "createdAt": "2024-01-08T08:48:04.164Z",
+      "updatedAt": "2024-01-08T08:48:04.164Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "dolores",
+    "description": "Antea adicio succedo bestia aro. Adfero accendo suffragium ventus abduco venia. Vulnero denuo dedico.",
+    "price": 997976,
+    "stock": 57,
+    "imgUrl": "https://picsum.photos/seed/ltij70mU/100/100",
+    "categoryId": 5,
+    "authorId": 9,
+    "createdAt": "2024-01-08T08:48:04.241Z",
+    "updatedAt": "2024-01-08T08:48:04.241Z",
+    "Category": {
+      "id": 5,
+      "name": "molestiae",
+      "createdAt": "2024-01-08T08:48:03.891Z",
+      "updatedAt": "2024-01-08T08:48:03.891Z"
+    }
+  },
+  {
+    "id": 4,
+    "name": "tergum",
+    "description": "Sto antepono defungo confero error provident angustus. Vae uberrime callide summisse. Deduco ultio cimentarius.",
+    "price": 220085,
+    "stock": 56,
+    "imgUrl": "https://loremflickr.com/100/100?lock=1516564245381120",
+    "categoryId": 5,
+    "authorId": 4,
+    "createdAt": "2024-01-08T08:48:04.241Z",
+    "updatedAt": "2024-01-08T08:48:04.241Z",
+    "Category": {
+      "id": 5,
+      "name": "molestiae",
+      "createdAt": "2024-01-08T08:48:03.891Z",
+      "updatedAt": "2024-01-08T08:48:03.891Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "comis",
+    "description": "Ventosus absum bis vulgo verecundia. Blanditiis vinco temeritas suppono supra utpote accedo tubineus. Sustineo officia atque contigo.",
+    "price": 462039,
+    "stock": 63,
+    "imgUrl": "https://loremflickr.com/100/100?lock=6859192212127744",
+    "categoryId": 6,
+    "authorId": 7,
+    "createdAt": "2024-01-08T08:48:04.241Z",
+    "updatedAt": "2024-01-08T08:48:04.241Z",
+    "Category": {
+      "id": 6,
+      "name": "mollitia",
+      "createdAt": "2024-01-08T08:48:03.959Z",
+      "updatedAt": "2024-01-08T08:48:03.959Z"
+    }
+  },
+  {
+    "id": 6,
+    "name": "carmen",
+    "description": "Sumo voluptatibus comptus tot autus vito vix ipsam libero. Timidus beatae acceptus voluptatem possimus condico strenuus asperiores. Charisma clamo vehemens allatus sint quo.",
+    "price": 900964,
+    "stock": 11,
+    "imgUrl": "https://loremflickr.com/100/100?lock=4847748205510656",
+    "categoryId": 6,
+    "authorId": 7,
+    "createdAt": "2024-01-08T08:48:04.241Z",
+    "updatedAt": "2024-01-08T08:48:04.241Z",
+    "Category": {
+      "id": 6,
+      "name": "mollitia",
+      "createdAt": "2024-01-08T08:48:03.959Z",
+      "updatedAt": "2024-01-08T08:48:03.959Z"
+    }
+  }
+]
